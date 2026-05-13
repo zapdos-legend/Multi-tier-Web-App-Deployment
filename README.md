@@ -12,7 +12,9 @@ This architecture improves scalability, security, maintainability, and performan
 
 🧰 AWS Services Used
 Amazon EC2 – Used for hosting frontend and backend application servers.
+
 Amazon RDS – Used for managed relational database services.
+
 Elastic Load Balancer (ELB) – Used for distributing incoming traffic across multiple servers.
 
 
