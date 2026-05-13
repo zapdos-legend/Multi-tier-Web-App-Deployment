@@ -10,6 +10,11 @@ The purpose of this project is to deploy a scalable and secure multi-tier web ap
 
 This architecture improves scalability, security, maintainability, and performance by isolating each layer of the application infrastructure.
 
+🧰 AWS Services Used
+Amazon EC2 – Used for hosting frontend and backend application servers.
+Amazon RDS – Used for managed relational database services.
+Elastic Load Balancer (ELB) – Used for distributing incoming traffic across multiple servers.
+
 
 ## Project Screenshots
 
