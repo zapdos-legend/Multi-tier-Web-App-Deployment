@@ -1,0 +1,42 @@
+
+
+
+GitHub steps: Create Files inside folder
+
+🔹 1. Create frontend.html
+<h1>Frontend Server 🚀</h1>
+<p>This is frontend layer</p>
+
+
+🔹 2. Create backend.html
+<h1>Backend Server ⚙️</h1>
+<p>This is backend layer</p>
+
+
+
+🔹 3. Create README.md
+# Multi-tier Web Application
+## Description
+This project demonstrates a 3-tier architecture:
+- Frontend (EC2)
+- Backend (EC2)
+- Database (RDS)
+
+## AWS Services Used
+- EC2
+- RDS
+- Load Balancer
+
+## Features
+- Scalable architecture
+- Separate frontend and backend
+- Database integration
+
+
+🔹 4. (Optional) Create steps.txt
+1. Created Frontend EC2
+2. Created Backend EC2
+3. Setup Apache
+4. Created RDS database
+5. Connected backend to database
+6. Created Load Balancer
